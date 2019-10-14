@@ -16,3 +16,7 @@ For example, if you test this dataset:
 * J( Chasing Amy, Good Will Hunting ) = 0.175
 * J( Heat, The Godfather ) = 0.311
 * J( The Godfather, The Godfather: Part II ) = 0.433
+
+In this jupyter notebook, I first simply look at the user ratings for movies in this database. Then I found the two movies that have perfect ratings from all the users who saw them, and which also tie for the most users who rated them. I also found the five most highly rated movies (by mean rating over all users who rated them) for movies that were rated by more that 100 people.
+
+In the end, I demonstrated how to find the five closest movies by Jaccard index to Toy Story and Casablanca.
