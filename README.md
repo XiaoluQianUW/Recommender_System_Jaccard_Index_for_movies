@@ -13,6 +13,6 @@ of users in the database who rated both M1 and M2 divided by the total number of
 or M2.
 
 For example, if you test this dataset:
-* J( Chasing Amy, Good Will Hunting ) = 0:175
-* J( Heat, The Godfather ) = 0:311
-* J( The Godfather, The Godfather: Part II ) = 0:433
+* J( Chasing Amy, Good Will Hunting ) = 0.175
+* J( Heat, The Godfather ) = 0.311
+* J( The Godfather, The Godfather: Part II ) = 0.433
